@@ -64,7 +64,7 @@ highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
 resourcePacks:["vanilla","programmer_art","file/ProgrammerArtFix-26.2.zip","file/Silver Age+ Patches.zip","file/Unrandom Textures v 15.11.0 - 1.20-1.21.11.zip","classic_icons","file/§3§lC418 Songs Only.zip"]
-incompatibleResourcePacks:[]
+incompatibleResourcePacks:["file/Unrandom Textures v 15.11.0 - 1.20-1.21.11.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0

@@ -62,7 +62,7 @@ hash = "57a6b0e4a29c809f04e01a30f465ebb20312258a70c674f84a6c13fe2736a6c5"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "de73f83ae52e2b25337366bf37ebb6c61e95bdfa10e02e6be95ee180b5c87b0d"
+hash = "cd48fc90d7a7418c26f4e30381700ddc0bf8b564a5c33af7df22e4f9c705184d"
 
 [[files]]
 file = "config/rrls.toml"
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "90049cd84c8e884da7de2f45edd877028cf2d6133dc6d348926f248c4ef613d4"
+hash = "546965f1ab52fc464c51e36c52305fef231837c22454d22447b8423e379502cd"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "23ea9cbbe101c02fa303de93336834febc20c6606147f7f22a7c1a536d0e5557"
+hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/yellowtext-port.pw.toml"
-hash = "979717a0e31bb66f6b8e80cb03b5196bce68d78554c7d931ed5130adb45b8b1d"
+hash = "0ca1f2b382a7a083dc07e5376c4c5a25e8d9d92f214e914f1b82e0b8b2998d49"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0501230bc09c2e6384cdf26a7b0016a0309f106dc58d4c240c8b88ade434c8bc"
+hash = "daac84682129426cedde7c0bc2eae86be9aeb0c3b2ea07f6d6c47107a85bacd2"
 
 [[files]]
 file = "resourcepacks/Silver Age+ Patches.zip"

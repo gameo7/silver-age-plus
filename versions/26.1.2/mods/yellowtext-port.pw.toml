@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://github.com/gameo7/YellowText/releases/download/1.1.0/YellowText-1.1.0+mc26.1.jar"
 hash-format = "sha256"
-hash = "sha256:7eb872117ebec85723c238850c6fd98dc120afd687d02f76a7640e07b727a3f9"
+hash = "7eb872117ebec85723c238850c6fd98dc120afd687d02f76a7640e07b727a3f9"

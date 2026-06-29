@@ -62,7 +62,7 @@ hash = "57a6b0e4a29c809f04e01a30f465ebb20312258a70c674f84a6c13fe2736a6c5"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "de73f83ae52e2b25337366bf37ebb6c61e95bdfa10e02e6be95ee180b5c87b0d"
+hash = "cd48fc90d7a7418c26f4e30381700ddc0bf8b564a5c33af7df22e4f9c705184d"
 
 [[files]]
 file = "config/rrls.toml"
