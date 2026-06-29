@@ -98,7 +98,7 @@ hash = "317d549c8873e1d46ca464abf8ba2a0feea9d1e2d745e3c60568d665caec6851"
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "809cc13566b4d083a5c6242dafd94c14a65aecab3a8c28933bcbffef38bd9a79"
+hash = "3a7f685358fe4eda8dc265f2d350c05e2cbc8c7a661e1d9676e72a02bc044a2b"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/legacy-potion-colors.pw.toml"
-hash = "2c6de4f4096f98acf2c63989ea94dbb81a249d502948837dff511b27ce9ff6c8"
+hash = "4cff93c251b4917edc08b812f818e52089597c8d0bf3773d874a887c6f346d5b"
 metafile = true
 
 [[files]]

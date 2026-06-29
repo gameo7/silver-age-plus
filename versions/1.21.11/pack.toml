@@ -1,4 +1,4 @@
-name = "Silver Age +"
+name = "Silver Age+"
 author = "gameo7"
 version = "1.0.0+mc1.21.11"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bc4d5b0920744857f32b11fedc12e82bf59cb7cb52e22f6a7b4653c085fc6184"
+hash = "b96c31e8a758f0757cda1a111ee4bf7be39bded34cbfd9c313abdeed05d5d1f1"
 
 [versions]
 fabric = "0.19.3"
