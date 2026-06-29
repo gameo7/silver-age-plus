@@ -63,7 +63,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","programmer_art","file/ProgrammerArtFix-26.1.zip","file/Silver Age+ Patches.zip","file/Unrandom Textures v 15.11.0 - 1.20-1.21.11.zip","classic_icons","file/§3§lC418 Songs Only.zip"]
+resourcePacks:["vanilla","programmer_art","file/ProgrammerArtFix-26.2.zip","file/Silver Age+ Patches.zip","file/Unrandom Textures v 15.11.0 - 1.20-1.21.11.zip","classic_icons","file/§3§lC418 Songs Only.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
