@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a6c765f33740c3603be93ef5f6a477cf873c015bda1448b4ce79744457612dde"
+hash = "0501230bc09c2e6384cdf26a7b0016a0309f106dc58d4c240c8b88ade434c8bc"
 
 [[files]]
 file = "resourcepacks/Silver Age+ Patches.zip"
@@ -383,7 +383,3 @@ metafile = true
 file = "resourcepacks/unrandom-textures.pw.toml"
 hash = "314befe01f6e2514d40e67984c1fbf472d9108c6c0d985d6212eba7cae0bd5de"
 metafile = true
-
-[[files]]
-file = "sage+mods-packwiz.bat"
-hash = "4fc25803aad317797d417a08e7cfb117e199ff4e5e7de42141f42d2df8530632"
