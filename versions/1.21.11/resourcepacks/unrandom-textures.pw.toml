@@ -1,0 +1,13 @@
+name = "Unrandom Textures"
+filename = "Unrandom Textures v 15.11.0 - 1.20-1.21.11.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XpSeN8Wf/versions/ptRzfcmm/Unrandom%20Textures%20v%2015.11.0%20-%201.20-1.21.11.zip"
+hash-format = "sha512"
+hash = "1152b0c83370b015bb9237ba0e42ca77cb743ca2d19001a9b2fd1241ecf877e0154073d1316d9100b7edeb60c7a3c96ff30745ad4f3d4c4a5fdd35be65e05273"
+
+[update]
+[update.modrinth]
+mod-id = "XpSeN8Wf"
+version = "ptRzfcmm"

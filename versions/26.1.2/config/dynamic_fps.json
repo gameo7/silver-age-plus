@@ -1,0 +1,40 @@
+{
+  "uncap_menu_frame_rate": true,
+  "idle": {
+    "timeout": 120,
+    "condition": "none"
+  },
+  "states": {
+    "hovered": {
+      "volume_multipliers": {
+        "records": 1.0,
+        "blocks": 1.0,
+        "players": 1.0
+      }
+    },
+    "unfocused": {
+      "frame_rate_target": 30,
+      "volume_multipliers": {
+        "records": 1.0,
+        "blocks": 1.0,
+        "players": 1.0,
+        "master": 1.0
+      }
+    },
+    "abandoned": {
+      "volume_multipliers": {
+        "records": 1.0,
+        "blocks": 1.0,
+        "players": 1.0
+      }
+    },
+    "invisible": {
+      "volume_multipliers": {
+        "records": 1.0,
+        "blocks": 1.0,
+        "players": 1.0,
+        "master": 0.5
+      }
+    }
+  }
+}

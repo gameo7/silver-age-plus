@@ -1,0 +1,13 @@
+name = "Button Fix"
+filename = "buttonfix-1.1.0-fabric+26.1-26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lCEmlD3q/versions/sg8TdYVF/buttonfix-1.1.0-fabric%2B26.1-26.1.2.jar"
+hash-format = "sha512"
+hash = "d92db91cac49721fd21ad683b7db647ae030dc87f3e552e849ecc3c01f5827ff9dbd7446b7a894b9626fac794157ab698acff7fd40d5989e751921f59050a59f"
+
+[update]
+[update.modrinth]
+mod-id = "lCEmlD3q"
+version = "sg8TdYVF"

@@ -1,0 +1,13 @@
+name = "No Report Button"
+filename = "no-report-button-1.7.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9WJeSpTH/versions/HtxD6EEC/no-report-button-1.7.1-fabric.jar"
+hash-format = "sha512"
+hash = "a9ca1f7b51ba85f7b8715a783f66880a4f05e95b126c07b02aa5661d05577f95d7353297e6f5b6b00b593184be22bc19e17246c0e22a0e88a710f1c84c66c4b7"
+
+[update]
+[update.modrinth]
+mod-id = "9WJeSpTH"
+version = "HtxD6EEC"

@@ -1,0 +1,13 @@
+name = "View Bobbing Options"
+filename = "viewboboptions-0.4.2+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yr9J16k6/versions/3caRvLcm/viewboboptions-0.4.2%2B26.1.jar"
+hash-format = "sha512"
+hash = "791232ce7433aa65639abf190dc1f6b3485b119dbf72c0a19f80e07f8dd98c6c90114a171dea5221554bb93395464ec20ae331854aef9a66ccde6a3e1c412c6c"
+
+[update]
+[update.modrinth]
+mod-id = "Yr9J16k6"
+version = "3caRvLcm"

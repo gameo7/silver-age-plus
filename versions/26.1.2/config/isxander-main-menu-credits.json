@@ -1,0 +1,26 @@
+{
+  "main_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [ {
+		"text": "Silver Age+ v1.0 by gameo7",
+			"click_event": {
+				"action": "open_url",
+				"url": "https://modrinth.com/modpack/silver-age+" } }
+			],
+    "bottom_right": [],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [ {
+		"text": "§7Silver Age+ v1.0 by gameo7",
+			"click_event": {
+				"action": "open_url",
+				"url": "https://modrinth.com/modpack/silver-age+" } }
+			],
+	"bottom_right": [],
+    "mod_blacklist": []
+  }
+}

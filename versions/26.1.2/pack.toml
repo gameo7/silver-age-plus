@@ -1,0 +1,13 @@
+name = "Silver Age+"
+author = "gameo7"
+version = "1.0.0+mc26.1.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f32dbe47a887c65a310d55f2c7393cc225e67ebfd822e3ff21631e8b0cd2d130"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.1.2"

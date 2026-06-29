@@ -1,0 +1,13 @@
+name = "YellowText"
+filename = "YellowText-1.0.0+mc1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tJF6j23Q/versions/tNWgLC99/YellowText-1.0.0%2Bmc1.21.11.jar"
+hash-format = "sha512"
+hash = "7e39fc1b0c4382942b57a580c9798bc50b733bec3470ae658a92506d6cf399bc7ed5971fdc1eee786cb85437c4136b8a3f0738a873519505c96713ef08f3740e"
+
+[update]
+[update.modrinth]
+mod-id = "tJF6j23Q"
+version = "tNWgLC99"
